@@ -37,7 +37,7 @@ export default {
     },
     methods: {
       async addReview(review) {
-            const res = await fetch('http://localhost:3004/reviews', {
+            const res = await fetch('http://localhost:5000/reviews', {
               method: 'POST',
               headers: {
                 'Content-type': 'application/json',

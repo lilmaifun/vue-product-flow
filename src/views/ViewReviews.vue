@@ -14,7 +14,7 @@ export default {
     },
     methods: {
         async fetchReviews() {
-            const res = await fetch('http://localhost:3004/reviews')
+            const res = await fetch('http://localhost:5000/reviews')
 
             const data = await res.json()
 
