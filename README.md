@@ -18,7 +18,10 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+### Starts backend JSON server
 ```
+npm run backend
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
