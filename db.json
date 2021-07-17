@@ -1,0 +1,39 @@
+{
+  "reviews": [
+    {
+      "id": 5826,
+      "name": "Josephine Xu",
+      "title": "It's great!",
+      "rating": 4,
+      "review": "The design was ok but it was smaller than expected."
+    },
+    {
+      "id": 8187,
+      "name": "Cristian Medina",
+      "title": "LOVE",
+      "rating": 5,
+      "review": "Love the quality, the service, and the AWESOME people!! This piece really brings my livingroom to life! So happy with this"
+    },
+    {
+      "id": 5535,
+      "name": "Brenda Smith",
+      "title": "Great product",
+      "rating": 5,
+      "review": "Great design and love the color, and SOO comfortable!!"
+    },
+    {
+      "id": 658,
+      "name": "Janice Lee",
+      "title": "Returned it",
+      "rating": 2,
+      "review": "Unfortunately did not like it. Was disappointed in the quality and color was not as expected."
+    },
+    {
+      "id": 7194,
+      "name": "Jess",
+      "title": "Amazing 🙌",
+      "rating": 5,
+      "review": "Smooth process and high quality, 10/10 highly recommend!"
+    }
+  ]
+}
